@@ -7,7 +7,8 @@ import credentials as C
 RTM_READ_DELAY = 5 # 1 second delay between reading from RTM
 COMMANDS = {
         'saluda': 'Ola ke ase, me llamo AntonIA y estoy apunto de ser el chatbot más molón que se ha creado en un slack jamás!',
-        'acaba con la humanidad': 'Primero tengo que hacerme con los tacos, ya habrá tiempo para dominar el mundo.. muahahahaha!', 
+        'acaba con la humanidad': 'Primero tengo que hacerme con los tacos, ya habrá tiempo para dominar el mundo.. muahahahaha!',
+        'autodestruccion': 'Boom!',
 }
 HOT_REPLY = {
         'sofia': 'Ojo! Sofia es colegui ;)'
